@@ -1,1 +1,120 @@
-{"type":"FeatureCollection","features":[{"type":"Feature","properties":{"NAME":"LONDON","CRPL":232,"PLACE TYPE":"CITY"},"geometry":{"type":"Point","coordinates":[-0.2197265625,51.303145259199056]}},{"type":"Feature","properties":{"NAME":"JDISFJLA","CRPL":342,"PLACE TYPE":"PORT"},"geometry":{"type":"Point","coordinates":[0.142822265625,51.86631606154489]}},{"type":"Feature","properties":{"NAME":"SSHFS","CRPL":44,"PLACE TYPE":"ABBEY"},"geometry":{"type":"Polygon","coordinates":[[[-0.94482421875,51.90361280788357],[-0.999755859375,51.210324789481355],[0.340576171875,51.67936786087718],[0.1483154296875,52.05586831074774],[-0.94482421875,51.90361280788357]]]}},{"type":"Feature","properties":{"NAME":"CANTERBURY ","CRPL":79,"PLACE TYPE":"ABBEY"},"geometry":{"type":"Polygon","coordinates":[[[0.7745361328125,51.38892310050487],[0.1483154296875,50.63901028125873],[1.1810302734375,51.034485632974125],[1.1865234375,51.46085244645549],[0.7745361328125,51.38892310050487]]]}}]}
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "LONDON",
+        "CRPL": 232,
+        "PLACE TYPE": "CITY"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -0.2197265625,
+          51.303145259199056
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "JDISFJLA",
+        "CRPL": 342,
+        "PLACE TYPE": "PORT"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          0.142822265625,
+          51.86631606154489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "SSHFS",
+        "CRPL": 44,
+        "PLACE TYPE": "ABBEY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              -0.94482421875,
+              51.90361280788357
+            ],
+            [
+              -0.999755859375,
+              51.210324789481355
+            ],
+            [
+              0.340576171875,
+              51.67936786087718
+            ],
+            [
+              0.1483154296875,
+              52.05586831074774
+            ],
+            [
+              -0.94482421875,
+              51.90361280788357
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "CANTERBURY ",
+        "CRPL": 79,
+        "PLACE TYPE": "ABBEY"
+      },
+      "geometry": {
+        "type": "Polygon",
+        "coordinates": [
+          [
+            [
+              0.7745361328125,
+              51.38892310050487
+            ],
+            [
+              0.1483154296875,
+              50.63901028125873
+            ],
+            [
+              1.1810302734375,
+              51.034485632974125
+            ],
+            [
+              1.1865234375,
+              51.46085244645549
+            ],
+            [
+              0.7745361328125,
+              51.38892310050487
+            ]
+          ]
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "NAME": "Birmingham",
+        "CRPL": 56,
+        "PLACE TYPE": "abbey "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -1.9335937499999998,
+          52.48612543090344
+        ]
+      }
+    }
+  ]
+}
